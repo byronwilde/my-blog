@@ -1,0 +1,12 @@
+title: 我的博客
+description: 欢迎访问我的博客！
+baseurl: ""
+url: "https://你的用户名.github.io"
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
